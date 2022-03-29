@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37553c2d.chunk.css",
+    "main.js": "/static/js/main.424dcc8b.chunk.js",
+    "main.js.map": "/static/js/main.424dcc8b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.43733677.js",
+    "runtime-main.js.map": "/static/js/runtime-main.43733677.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e17f3de4.chunk.js": "/static/js/2.e17f3de4.chunk.js",
+    "static/js/2.e17f3de4.chunk.js.map": "/static/js/2.e17f3de4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.37553c2d.chunk.css.map": "/static/css/main.37553c2d.chunk.css.map",
+    "static/js/2.e17f3de4.chunk.js.LICENSE.txt": "/static/js/2.e17f3de4.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/Momcake-Bold.4c0461ca.otf",
+    "static/media/header-logo.aebabf09.png": "/static/media/header-logo.aebabf09.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43733677.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e17f3de4.chunk.js",
+    "static/css/main.37553c2d.chunk.css",
+    "static/js/main.424dcc8b.chunk.js"
+  ]
+}
